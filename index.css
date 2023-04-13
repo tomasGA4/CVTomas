@@ -41,11 +41,12 @@ header{
 }
 .bienvenida {
     padding-left: 10px;
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
 }
 .intro{
     padding-left: 20px;
+    font-size: 23px;
 }
 img {
     width: 320px;
