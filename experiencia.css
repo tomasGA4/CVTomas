@@ -60,10 +60,12 @@ h1 {
     
 }
 .h2{
-    font-size: 300%;
-    
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
-.nea{
+.explaboral{
     font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
 }
