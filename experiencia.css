@@ -19,11 +19,13 @@ header{
     margin-left: 50px;
     margin-right: 50px;
     width: 1380px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .enlaces{
     display: flex;
     align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
 
@@ -31,7 +33,8 @@ header{
     text-decoration: none;
     padding-left: 150px;
     color: black;
-    font-size: 22px;
+    font-size: 29px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .hipervinculos{
@@ -39,6 +42,7 @@ header{
     display: flex;
     margin-top: 40px;
     list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 img {
@@ -57,15 +61,16 @@ img {
 h1 {
     text-align: center;
     font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
 .h2{
-    font-size: 250%;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
 .explaboral{
     font-size: 150%;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
