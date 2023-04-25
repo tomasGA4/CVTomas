@@ -65,5 +65,14 @@ h1 {
     font-size: 300%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.habilidades{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 160%;
+    font-weight: 400;
+    padding-left: 1%;
+    border-radius: 20px;
+    border-style: solid;
+    width: 29%;
+}
 
 
